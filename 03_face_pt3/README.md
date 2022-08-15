@@ -1,3 +1,3 @@
-# Smiley Face Part II
+# Smiley Face Part III
 
-A bare minimum smiley face, using HTML/SVG, CSS, and a basic frontend framework (React & Svelte versions).
+A bare minimum smiley face, using HTML/SVG, CSS, D3 and a basic frontend framework (React & Svelte versions).
